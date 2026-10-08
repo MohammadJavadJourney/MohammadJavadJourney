@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Mohammad Javad 👋
 
-<!--
-**MohammadJavadJourney/MohammadJavadJourney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-leaning full-stack web developer building real-world web apps — from polished UIs to the servers and deployments behind them. Currently diving deeper into backend development.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, NestJS
+- **Database:** PostgreSQL, Prisma, Redis, MongoDB
+- **CMS:** Sanity
+- **DevOps:** Docker, Nginx, VPS/SSH deployment
+- **Other:** Stripe, WebSockets, REST APIs
+
+## 🚀 What I do
+
+I build and ship full products end-to-end — frontend, backend, and deployment.
+
+## 📥 Reach me
+
+md.gholinejad@gmail.com
